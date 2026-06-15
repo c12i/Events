@@ -22,6 +22,7 @@ enriching it with local LLMs, all in production Rust.
 ## Presentation Slides
 
 Live: https://rust-for-civic-tech-talk.vercel.app/1
+PDF: [rust-for-civic-tech.pdf](./rust-for-civic-tech.pdf)
 
 _Powered by [sli.dev](https://sli.dev)_
 
